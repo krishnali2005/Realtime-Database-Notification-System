@@ -1,3 +1,3 @@
-node_modules
-.env
-.DS_Store
+realtime-orders/node_modules
+realtime-orders/.env
+realtime-orders/.DS_Store
